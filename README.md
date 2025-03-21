@@ -28,8 +28,10 @@ git clone https://github.com/Windows2000-beta/bat-virus-test
 
 ## **Обзор и инструкция**
 YouTube канал: [WinEXPERT PSW89](https://www.youtube.com/@WinEXPERT_PSW89)
+Github: [Windows2000-beta](https://github.com/Windows2000-beta)
+<hr>
 Личный Steam: [WinEXPERT](https://steamcommunity.com/id/WinEXPERT_GTM18/)
 Личная steam группа: [theGTM+18](https://steamcommunity.com/groups/GTM18)
-Github: [Windows2000-beta](https://github.com/Windows2000-beta)
+
 
 ---
