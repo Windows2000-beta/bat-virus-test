@@ -33,7 +33,7 @@ Github: [Windows2000-beta](https://github.com/Windows2000-beta)
 <hr>
 Личный Steam: <a href="https://steamcommunity.com/id/WinEXPERT_GTM18">WinEXPERT</a>
 
-Личная steam группа: [theGTM+18](https://steamcommunity.com/groups/GTM18)
+Личная steam группа: [GTM18](https://steamcommunity.com/groups/GTM18)
 
 
 ---
