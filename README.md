@@ -27,7 +27,7 @@ git clone https://github.com/Windows2000-beta/bat-virus-test
 <hr>
 
 ## **Обзор и инструкция**
-YouTube канал: [WinEXPERT PSW89](https://www.youtube.com/@WinEXPERT_PSW89)
+YouTube канал: [WinEXPERT_PSW89](https://www.youtube.com/@WinEXPERT_PSW89)
 
 Github: [Windows2000-beta](https://github.com/Windows2000-beta)
 <hr>
